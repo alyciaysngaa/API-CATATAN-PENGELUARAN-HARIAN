@@ -1,8 +1,26 @@
-# API-CATATAN-PENGELUARAN-HARIAN
-KELOMPOK 11
+# Pencatatan Keuangan Harian
 
-Alycia Yosephine Br Sinaga		(22091397080)
+Aplikasi pencatatan keuangan harian ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-Zahroh Salsabila			(22091397094)
+To access. Example http://localhost/keuangan
 
-Rosyida Auliya Salsabila		(22091397104)
+## Tampilan Aplikasi
+
+![ss](img/ss1.png)
+![ss](img/ss2.png)
+![ss](img/ss3.png)
+![ss](img/ss4.png)
+![ss](img/ss5.png)
+
+## Admin Account
+
+| Username | Password |
+| :------: | -------: |
+|  admin   |    admin |
+|  salsa   |    salsa |
+
+## Sistem Requirement
+
+- Database MySQL
+- XAMPP / PHP 5.6
+- Server : XAMPP
